@@ -1,4 +1,4 @@
-# Sales-Insights - Data Analysis using Tableau & SQL
+# Sales Insights - Data Analysis using Tableau & SQL
 - Analyzed the sales data of an Indian hardware company to gain insights.
 
 - Developed SQL-based ETL mappings to extract unstructured data, which was then transformed and cleaned in Tableau's staging area..
